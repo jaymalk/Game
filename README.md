@@ -1,6 +1,6 @@
 # Task 3
 This is an empty repository for Task-3.<br>
-Until planned, this shall be the status of this task.
+Until planned, this shall be the status of this task. <br>
 Requirements
   - Category : **Game**
   - Theme : **Cause Specific**
