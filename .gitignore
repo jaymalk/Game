@@ -1,0 +1,5 @@
+# MACOS Files
+.DS_Store
+
+# WebStorm Files
+.idea/*
