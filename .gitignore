@@ -2,4 +2,7 @@
 .DS_Store
 
 # WebStorm Files
-.idea/
+./.idea/
+
+# Ignoring configurations
+*.php
