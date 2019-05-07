@@ -1,7 +1,7 @@
 <?php 
 
 class WM_Config {
-	public static $fileRoot = '/Users/rajbirmalik/Sites/task/';
+	public static $fileRoot = 'D:/XAMPP/htdocs/Game/';
 }
 
 function stripslashes_deep($value)
