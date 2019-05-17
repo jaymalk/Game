@@ -35,5 +35,5 @@ Requirements
 #### Snapshots
 
 <p align="center">
-        <img src = "https://github.com/jaymalk/Adventure_Game/blob/master/readme_files/basic.gif">
+        <img src = "https://github.com/jaymalk/Game/blob/master/readme_files/basic.gif">
 </p>
